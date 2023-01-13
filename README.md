@@ -1,4 +1,15 @@
 ### Hi there 👋
+- 🌱 I’m currently learning ...
+### Tecnologías
+<ul>
+  <li>React</li>
+  <li>Javascript</li>
+  <li>MySQL</li>
+</ul>
+!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+
+
+
 
 <!--
 **GranGansu/GranGansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
